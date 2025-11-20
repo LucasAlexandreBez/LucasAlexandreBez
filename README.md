@@ -1,72 +1,109 @@
-# 👋 Olá! Eu sou o Lucas
+# 🔭 Lucas Alexandre Bez Piancoski 📚
 
-Sou **QA Tester** e **Desenvolvedor em formação**, com experiência em testes manuais e estudos sólidos em Java, lógica de programação, orientação a objetos e automação.  
-Também tenho background em **química**, o que me dá uma visão analítica e estruturada para resolução de problemas.
+Hello there! Welcome to my GitHub profile.  
+This is my little corner of the world where I store projects related to **Chemistry**, **Software Development**, **Quality Assurance**, and occasionally **Arduino/Raspberry Pi** experiments.
 
-Este portfólio reúne meus principais projetos, estudos e experimentos.
+I've always been a curious person — that kid who constantly asked *“why?”* and lived in the clouds wondering *“what if?”*.  
+Today, I channel that same curiosity into learning and sharing knowledge. Whether it's software or chemistry, I truly believe that **knowledge liberates the soul**. Once you step into the realm of enlightenment, there's no turning back.
 
----
+**`Manual QA | Upskilling towards Test Automation`**
 
-## 🚀 Tecnologias & Ferramentas
+## 🌐 Connect with Me
+<p align="left">
+    <a href="https://www.linkedin.com/in/lucasalexandrebezpiancoski" target="_blank">
+        <img 
+            alt="LinkedIn"
+            title="LinkedIn"
+            src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=064883"
+        />
+    </a>
+    <a href="https://www.udemy.com/user/vita-scientia" target="_blank">
+        <img 
+            alt="Udemy Profile"
+            title="My Udemy Profile"
+            src="https://custom-icon-badges.demolab.com/badge/-Udemy-EC5252?style=for-the-badge&logo=udemy&logoColor=white&labelColor=9f3a3a"
+        />
+    </a>
+    <a href="https://github.com/LucasAlexandreBez?tab=repositories&sort=stargazers" target="_blank">
+        <img 
+            alt="Total Stars" 
+            title="Total GitHub Stars" 
+            src="https://custom-icon-badges.demolab.com/github/stars/LucasAlexandreBez?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Stars"
+        />
+    </a>
+    <a href="https://github.com/LucasAlexandreBez?tab=followers" target="_blank">
+        <img 
+            alt="Followers" 
+            title="Follow me on GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/LucasAlexandreBez?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white"
+        />
+    </a>
+</p>
 
-- **Linguagens:** Java, JavaScript (estudando)
-- **Testes:** Testes manuais, cenários, casos de teste  
-- **Banco de Dados:** H2 Database, MySQL (básico)  
-- **Ferramentas:** Git, GitHub, Postman, Maven  
-- **Conceitos:**  
-  - Orientação a Objetos  
-  - Herança, Polimorfismo, Classes Abstratas e Interfaces  
-  - Estruturas de dados  
-  - Testes funcionais e não funcionais  
+## 💻 Technologies & Tools
+<img
+    alt="QA" 
+    title="QA"
+    width="50px"
+    src="https://raw.githubusercontent.com/LucasAlexandreBez/LucasAlexandreBez/main/bug.png"
+/>
+<img
+    alt="Java" 
+    title="Java"
+    width="50px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain-wordmark.svg" 
+/>
+<img
+    alt="Playwright" 
+    title="Playwright"
+    width="50px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" 
+/>
+<img
+    alt="JUnit 5" 
+    title="JUnit 5"
+    width="50px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original-wordmark.svg" 
+/>
+<img
+    alt="Jenkins" 
+    title="Jenkins"
+    width="50px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" 
+/>
 
----
+## 📊 GitHub Stats
+<p align="center">
+    <img 
+        alt="GitHub Stats" 
+        height="200" 
+        style="padding-right: 10px;" 
+        src="https://github-readme-stats.vercel.app/api?username=LucasAlexandreBez&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" 
+    />
+    <img 
+        alt="Top Languages" 
+        height="200" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAlexandreBez&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9" 
+    />
+</p>
 
-## 🧪 Projetos
+## 💻 Software Projects
+<a href="https://github.com/USERNAME/REPO">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasAlexandreBez&repo=UseTheHead_Java&theme=tokyonight" />
+</a>
 
-### 🔹 **Projeto 1 — Sistema em Java (Ex.: Gerenciador de Tarefas)**
-Aplicação simples para treinar POO, collections e camadas de lógica.  
-**Tecnologias:** Java, Maven, H2 (em memória).
+## 🐞 QA Projects
+<a href="https://github.com/USERNAME/REPO">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasAlexandreBez&repo=ClickUp4Quality&theme=tokyonight" />
+</a>
+<a href="https://github.com/USERNAME/REPO">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasAlexandreBez&repo=OrageHRM_Playwright&theme=tokyonight" />
+</a>
 
-- 📁 Código: *[link do repositório]*  
-- 📝 Conceitos aplicados: POO, polimorfismo, interfaces, testes básicos
-
----
-
-### 🔹 **Projeto 2 — Automação de Testes (quando você tiver)**
-Automação inicial de cenários simples usando *[coloque a ferramenta]*.  
-**Tecnologias:** Java, Selenium/WebDriver, JUnit.
-
-- 📁 Código: *[link]*  
-- 📝 Conceitos aplicados: Page Object Model, locators, cenários
-
----
-
-### 🔹 **Projeto 3 — Estudos e Exercícios**
-Repositório com exercícios de Java, estruturas de dados e desafios lógicos.
-
-- 📁 Código: *[link]*  
-- 📝 Conteúdo: loops, arrays, polimorfismo, classes abstratas, sobrecarga e sobrescrita.
-
----
-
-## 📚 O que estou estudando atualmente
-
-- POO avançado (com Head First Java)  
-- Interfaces, polimorfismo dinâmico e boas práticas  
-- Java + JDBC + H2 Database  
-- Fundamentos de automação de testes  
-
----
-
-## 🎯 Objetivo Profissional
-
-Atuar como **QA Analyst** ou **Desenvolvedor Java Junior**, evoluindo continuamente e construindo projetos que demonstrem domínio técnico e pensamento estruturado.
-
----
-
-## 📫 Como me encontrar
-
-- **LinkedIn:** *se você tiver, coloco aqui*  
-- **E-mail:** *se quiser colocar*  
-
-Obrigado por visitar meu portfólio!
+## 🧪 Chemitry Projects
+<a href="https://github.com/USERNAME/REPO">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasAlexandreBez&repo=LMM-LuxMagnetoMeter&theme=tokyonight" />
+</a>
+<a href="https://github.com/USERNAME/REPO">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasAlexandreBez&repo=NASFQ&theme=tokyonight" />
+</a>
