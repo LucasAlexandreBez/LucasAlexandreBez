@@ -91,6 +91,9 @@ Today, I channel that same curiosity into learning and sharing knowledge. Whethe
 <a href="https://github.com/USERNAME/REPO">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasAlexandreBez&repo=UseTheHead_Java&theme=tokyonight" />
 </a>
+<a href="https://github.com/USERNAME/REPO">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasAlexandreBez&repo=LetsCalculate&theme=tokyonight" />
+</a>
 
 ## 🐞 QA Projects
 <a href="https://github.com/USERNAME/REPO">
