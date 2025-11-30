@@ -89,33 +89,33 @@ Today, I channel that same curiosity into learning and sharing knowledge. Whethe
 
 ## 💻 Software Projects
 <p align="center">
-    <a href="https://github.com/LucasAlexandreBez/REPO">
+    <a href="https://github.com/LucasAlexandreBez/UseTheHead_Java">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasAlexandreBez&repo=UseTheHead_Java&theme=tokyonight" />
     </a>
-    <a href="https://github.com/LucasAlexandreBez/REPO">
+    <a href="https://github.com/LucasAlexandreBez/LetsCalculate">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasAlexandreBez&repo=LetsCalculate&theme=tokyonight" />
     </a>
-    <a href="https://github.com/LucasAlexandreBez/REPO">
+    <a href="https://github.com/LucasAlexandreBez/Pseudocode_EN_PT">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasAlexandreBez&repo=Pseudocode_EN_PT&theme=tokyonight" />
+    </a>
+    <a href="https://github.com/LucasAlexandreBez/ClickUp4Java">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasAlexandreBez&repo=ClickUp4Java&theme=tokyonight" />
     </a>
 </p>
 
 ## 🐞 QA Projects
 <p align="center">
-    <a href="https://github.com/LucasAlexandreBez/REPO">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasAlexandreBez&repo=ClickUp4Quality&theme=tokyonight" />
-    </a>
-    <a href="https://github.com/LucasAlexandreBez/REPO">
+    <a href="https://github.com/LucasAlexandreBez/OrageHRM_Playwright">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasAlexandreBez&repo=OrageHRM_Playwright&theme=tokyonight" />
     </a>
 </p>
 
 ## 🧪 Chemitry Projects
 <p align="center">
-    <a href="https://github.com/LucasAlexandreBez/REPO">
+    <a href="https://github.com/LucasAlexandreBez/LMM-LuxMagnetoMeter">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasAlexandreBez&repo=LMM-LuxMagnetoMeter&theme=tokyonight" />
     </a>
-    <a href="https://github.com/LucasAlexandreBez/REPO">
+    <a href="https://github.com/LucasAlexandreBez/NASFQ">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasAlexandreBez&repo=NASFQ&theme=tokyonight" />
     </a>
 </p>
