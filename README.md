@@ -90,13 +90,13 @@ Today, I channel that same curiosity into learning and sharing knowledge. Whethe
 ## 💻 Software Projects
 <p align="center">
     <a href="https://github.com/LucasAlexandreBez/REPO">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasAlexandreBez&repo=Pseudocode_EN_PT&theme=tokyonight" />
-    </a>
-    <a href="https://github.com/LucasAlexandreBez/REPO">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasAlexandreBez&repo=UseTheHead_Java&theme=tokyonight" />
     </a>
     <a href="https://github.com/LucasAlexandreBez/REPO">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasAlexandreBez&repo=LetsCalculate&theme=tokyonight" />
+    </a>
+    <a href="https://github.com/LucasAlexandreBez/REPO">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasAlexandreBez&repo=Pseudocode_EN_PT&theme=tokyonight" />
     </a>
 </p>
 
