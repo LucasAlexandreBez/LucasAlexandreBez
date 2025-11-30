@@ -17,13 +17,13 @@ Today, I channel that same curiosity into learning and sharing knowledge. Whethe
             src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=064883"
         />
     </a>
-    <a href="https://www.udemy.com/user/vita-scientia" target="_blank">
+    <!-- <a href="https://www.udemy.com/user/vita-scientia" target="_blank">
         <img 
             alt="Udemy Profile"
             title="My Udemy Profile"
             src="https://custom-icon-badges.demolab.com/badge/-Udemy-EC5252?style=for-the-badge&logo=udemy&logoColor=white&labelColor=9f3a3a"
         />
-    </a>
+    </a> -->
     <a href="https://github.com/LucasAlexandreBez?tab=repositories&sort=stargazers" target="_blank">
         <img 
             alt="Total Stars" 
@@ -89,30 +89,33 @@ Today, I channel that same curiosity into learning and sharing knowledge. Whethe
 
 ## 💻 Software Projects
 <p align="center">
-    <a href="https://github.com/USERNAME/REPO">
+    <a href="https://github.com/LucasAlexandreBez/REPO">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasAlexandreBez&repo=Pseudocode_EN_PT&theme=tokyonight" />
+    </a>
+    <a href="https://github.com/LucasAlexandreBez/REPO">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasAlexandreBez&repo=UseTheHead_Java&theme=tokyonight" />
     </a>
-    <a href="https://github.com/USERNAME/REPO">
+    <a href="https://github.com/LucasAlexandreBez/REPO">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasAlexandreBez&repo=LetsCalculate&theme=tokyonight" />
     </a>
 </p>
 
 ## 🐞 QA Projects
 <p align="center">
-    <a href="https://github.com/USERNAME/REPO">
+    <a href="https://github.com/LucasAlexandreBez/REPO">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasAlexandreBez&repo=ClickUp4Quality&theme=tokyonight" />
     </a>
-    <a href="https://github.com/USERNAME/REPO">
+    <a href="https://github.com/LucasAlexandreBez/REPO">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasAlexandreBez&repo=OrageHRM_Playwright&theme=tokyonight" />
     </a>
 </p>
 
 ## 🧪 Chemitry Projects
 <p align="center">
-    <a href="https://github.com/USERNAME/REPO">
+    <a href="https://github.com/LucasAlexandreBez/REPO">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasAlexandreBez&repo=LMM-LuxMagnetoMeter&theme=tokyonight" />
     </a>
-    <a href="https://github.com/USERNAME/REPO">
+    <a href="https://github.com/LucasAlexandreBez/REPO">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasAlexandreBez&repo=NASFQ&theme=tokyonight" />
     </a>
 </p>
