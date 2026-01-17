@@ -82,16 +82,25 @@ Today, I channel that same curiosity into learning and sharing knowledge. Whethe
 
 ## 📚 Learning Projects
 <p align="center">
-    <a href="https://github.com/LucasAlexandreBez/UseTheHead_Java">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasAlexandreBez&repo=UseTheHead_Java&theme=tokyonight" />
+    <a href="https://github.com/LucasAlexandreBez/Microsoft-365-Office-Learning-Path">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasAlexandreBez&repo=Microsoft-365-Office-Learning-Path&theme=tokyonight" />
     </a>
-    <a href="https://github.com/LucasAlexandreBez/ClickUp4Java">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasAlexandreBez&repo=ClickUp4Java&theme=tokyonight" />
+    <a href="https://github.com/LucasAlexandreBez/Language-Learning-Path">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasAlexandreBez&repo=Language-Learning-Path&theme=tokyonight" />
+    </a>
+    <a href="https://github.com/LucasAlexandreBez/QA-Automation-Projects">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasAlexandreBez&repo=QA-Automation-Projects&theme=tokyonight" />
     </a>
 </p>
 
 ## 🛠️ Independent Projects
 <p align="center">
+    <a href="https://github.com/LucasAlexandreBez/ClickUp4Java">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasAlexandreBez&repo=ClickUp4Java&theme=tokyonight" />
+    </a>
+    <a href="https://github.com/LucasAlexandreBez/Pseudocode_EN_PT">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasAlexandreBez&repo=Pseudocode_EN_PT&theme=tokyonight" />
+    </a>
     <a href="https://github.com/LucasAlexandreBez/LMM-LuxMagnetoMeter">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasAlexandreBez&repo=LMM-LuxMagnetoMeter&theme=tokyonight" />
     </a>
