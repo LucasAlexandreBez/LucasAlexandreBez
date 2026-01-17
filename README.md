@@ -80,7 +80,7 @@ Today, I channel that same curiosity into learning and sharing knowledge. Whethe
     />
 </p>
 
-## 💻 Software Projects
+## 📚 Learning Projects
 <p align="center">
     <a href="https://github.com/LucasAlexandreBez/UseTheHead_Java">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasAlexandreBez&repo=UseTheHead_Java&theme=tokyonight" />
@@ -90,14 +90,7 @@ Today, I channel that same curiosity into learning and sharing knowledge. Whethe
     </a>
 </p>
 
-## 🐞 QA Projects
-<p align="center">
-    <a href="https://github.com/LucasAlexandreBez/OrageHRM_Playwright">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasAlexandreBez&repo=OrageHRM_Playwright&theme=tokyonight" />
-    </a>
-</p>
-
-## 🧪 Chemitry Projects
+## 🛠️ Independent Projects
 <p align="center">
     <a href="https://github.com/LucasAlexandreBez/LMM-LuxMagnetoMeter">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasAlexandreBez&repo=LMM-LuxMagnetoMeter&theme=tokyonight" />
