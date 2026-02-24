@@ -71,7 +71,7 @@ Today, I channel that same curiosity into learning and sharing knowledge. Whethe
         alt="GitHub Stats" 
         height="200" 
         style="padding-right: 10px;" 
-        src="https://github-readme-stats.vercel.app/api?username=LucasAlexandreBez&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" 
+        src="https://stats-organization/github-readme-stats-action.vercel.app/api?username=LucasAlexandreBez&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" 
     />
     <img 
         alt="Top Languages" 
