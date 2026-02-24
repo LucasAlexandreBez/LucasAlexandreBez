@@ -76,7 +76,7 @@ Today, I channel that same curiosity into learning and sharing knowledge. Whethe
     <img 
         alt="Top Languages" 
         height="200" 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAlexandreBez&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9" 
+        src="https://github-stats-extended.vercel.app/api/top-langs?username=LucasAlexandreBez&layout=donut&langs_count=10&theme=tokyonight" 
     />
 </p>
 
