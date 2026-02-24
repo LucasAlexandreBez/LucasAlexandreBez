@@ -71,40 +71,40 @@ Today, I channel that same curiosity into learning and sharing knowledge. Whethe
         alt="GitHub Stats" 
         height="200" 
         style="padding-right: 10px;" 
-        src="https://github-stats-extended.vercel.app/api?username=LucasAlexandreBez&theme=tokyonight"
+        src="https://github-stats-extended.vercel.app/api?username=LucasAlexandreBez&theme=dark"
     />
     <img 
         alt="Top Languages" 
         height="200" 
-        src="https://github-stats-extended.vercel.app/api/top-langs?username=LucasAlexandreBez&layout=donut&langs_count=10&theme=tokyonight" 
+        src="https://github-stats-extended.vercel.app/api/top-langs?username=LucasAlexandreBez&layout=donut&langs_count=10&theme=dark" 
     />
 </p>
 
 ## 📚 Learning Projects
 <p align="center">
     <a href="https://github.com/LucasAlexandreBez/Microsoft-365-Office-Learning-Path">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasAlexandreBez&repo=Microsoft-365-Office-Learning-Path&theme=tokyonight" />
+      <img src="https://github-stats-extended.vercel.app/api/pin?username=LucasAlexandreBez&repo=LucasAlexandreBez/Microsoft-365-Office-Learning-Path&theme=dark" />
     </a>
     <a href="https://github.com/LucasAlexandreBez/Language-Learning-Path">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasAlexandreBez&repo=Language-Learning-Path&theme=tokyonight" />
+      <img src="https://github-stats-extended.vercel.app/api/pin/?username=LucasAlexandreBez&repo=Language-Learning-Path&theme=dark" />
     </a>
     <a href="https://github.com/LucasAlexandreBez/QA-Automation-Projects">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasAlexandreBez&repo=QA-Automation-Projects&theme=tokyonight" />
+      <img src="https://github-stats-extended.vercel.app/api/pin/?username=LucasAlexandreBez&repo=QA-Automation-Projects&theme=dark" />
     </a>
 </p>
 
 ## 🛠️ Independent Projects
 <p align="center">
     <a href="https://github.com/LucasAlexandreBez/ClickUp4Java">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasAlexandreBez&repo=ClickUp4Java&theme=tokyonight" />
+      <img src="https://github-stats-extended.vercel.app/api/pin/?username=LucasAlexandreBez&repo=ClickUp4Java&theme=dark" />
     </a>
     <a href="https://github.com/LucasAlexandreBez/Pseudocode_EN_PT">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasAlexandreBez&repo=Pseudocode_EN_PT&theme=tokyonight" />
+      <img src="https://github-stats-extended.vercel.app/api/pin/?username=LucasAlexandreBez&repo=Pseudocode_EN_PT&theme=dark" />
     </a>
     <a href="https://github.com/LucasAlexandreBez/LMM-LuxMagnetoMeter">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasAlexandreBez&repo=LMM-LuxMagnetoMeter&theme=tokyonight" />
+      <img src="https://github-stats-extended.vercel.app/api/pin/?username=LucasAlexandreBez&repo=LMM-LuxMagnetoMeter&theme=dark" />
     </a>
     <a href="https://github.com/LucasAlexandreBez/NASFQ">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasAlexandreBez&repo=NASFQ&theme=tokyonight" />
+      <img src="https://github-stats-extended.vercel.app/api/pin/?username=LucasAlexandreBez&repo=NASFQ&theme=dark" />
     </a>
 </p>
