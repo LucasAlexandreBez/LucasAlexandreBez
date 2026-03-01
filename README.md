@@ -88,9 +88,6 @@ Today, I channel that same curiosity into learning and sharing knowledge. Whethe
     <a href="https://github.com/LucasAlexandreBez/Language-Learning-Path">
       <img src="https://github-stats-extended.vercel.app/api/pin/?username=LucasAlexandreBez&repo=LucasAlexandreBez/Language-Learning-Path&theme=dark" />
     </a>
-    <a href="https://github.com/LucasAlexandreBez/QA-Automation-Projects">
-      <img src="https://github-stats-extended.vercel.app/api/pin/?username=LucasAlexandreBez&repo=LucasAlexandreBez/QA-Automation-Projects&theme=dark" />
-    </a>
     <a href="https://github.com/LucasAlexandreBez/Postman">
       <img src="https://github-stats-extended.vercel.app/api/pin/?username=LucasAlexandreBez&repo=LucasAlexandreBez/Postman&theme=dark" />
     </a>
