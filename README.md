@@ -100,8 +100,8 @@ Today, I channel that same curiosity into learning and sharing knowledge. Whethe
     <a href="https://github.com/LucasAlexandreBez/Playwright">
       <img src="https://github-stats-extended.vercel.app/api/pin/?username=LucasAlexandreBez&repo=LucasAlexandreBez/Playwright&theme=dark" />
     </a>
-    <a href="https://github.com/LucasAlexandreBez/QA_SDET_DevOps">
-      <img src="https://github-stats-extended.vercel.app/api/pin/?username=LucasAlexandreBez&repo=LucasAlexandreBez/QA_SDET_DevOps&theme=dark" />
+    <a href="https://github.com/LucasAlexandreBez/Docker">
+      <img src="https://github-stats-extended.vercel.app/api/pin/?username=LucasAlexandreBez&repo=LucasAlexandreBez/Docker&theme=dark" />
     </a>
 </p>
 
