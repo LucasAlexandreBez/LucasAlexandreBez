@@ -83,25 +83,28 @@ Today, I channel that same curiosity into learning and sharing knowledge. Whethe
 ## 📚 Learning Projects
 <p align="center">
     <a href="https://github.com/LucasAlexandreBez/Microsoft-365-Office-Learning-Path">
-      <img src="https://github-stats-extended.vercel.app/api/pin?username=LucasAlexandreBez&repo=LucasAlexandreBez/Microsoft-365-Office-Learning-Path&theme=dark" />
+      <img src="https://github-stats-extended.vercel.app/api/pin?username=LucasAlexandreBez&repo=LucasAlexandreBez/Microsoft-365-Office-Learning-Path&theme=dark"/>
     </a>
     <a href="https://github.com/LucasAlexandreBez/LearningGit-_AnnaSkoulikary_OReilly">
       <img src="https://github-stats-extended.vercel.app/api/pin?username=LucasAlexandreBez&repo=LucasAlexandreBez/LearningGit-_AnnaSkoulikary_OReilly&theme=dark">
     </a>
     <a href="https://github.com/LucasAlexandreBez/Language-Learning-Path">
-      <img src="https://github-stats-extended.vercel.app/api/pin/?username=LucasAlexandreBez&repo=LucasAlexandreBez/Language-Learning-Path&theme=dark" />
+      <img src="https://github-stats-extended.vercel.app/api/pin/?username=LucasAlexandreBez&repo=LucasAlexandreBez/Language-Learning-Path&theme=dark"/>
     </a>
     <a href="https://github.com/LucasAlexandreBez/SQL-Learning-Path">
-      <img src="https://github-stats-extended.vercel.app/api/pin/?username=LucasAlexandreBez&repo=LucasAlexandreBez/SQL-Learning-Path&theme=dark" />
+      <img src="https://github-stats-extended.vercel.app/api/pin/?username=LucasAlexandreBez&repo=LucasAlexandreBez/SQL-Learning-Path&theme=dark"/>
     </a>
     <a href="https://github.com/LucasAlexandreBez/Postman">
-      <img src="https://github-stats-extended.vercel.app/api/pin/?username=LucasAlexandreBez&repo=LucasAlexandreBez/Postman&theme=dark" />
+      <img src="https://github-stats-extended.vercel.app/api/pin/?username=LucasAlexandreBez&repo=LucasAlexandreBez/Postman&theme=dark"/>
     </a>
     <a href="https://github.com/LucasAlexandreBez/Playwright">
-      <img src="https://github-stats-extended.vercel.app/api/pin/?username=LucasAlexandreBez&repo=LucasAlexandreBez/Playwright&theme=dark" />
+      <img src="https://github-stats-extended.vercel.app/api/pin/?username=LucasAlexandreBez&repo=LucasAlexandreBez/Playwright&theme=dark"/>
     </a>
     <a href="https://github.com/LucasAlexandreBez/Docker">
-      <img src="https://github-stats-extended.vercel.app/api/pin/?username=LucasAlexandreBez&repo=LucasAlexandreBez/Docker&theme=dark" />
+      <img src="https://github-stats-extended.vercel.app/api/pin/?username=LucasAlexandreBez&repo=LucasAlexandreBez/Docker&theme=dark"/>
+    </a>
+    <a href="https://github.com/LucasAlexandreBez/Jenkins">
+      <img src="https://github-stats-extended.vercel.app/api/pin/?username=LucasAlexandreBez&repo=LucasAlexandreBez/Jenkins&theme=dark"/>
     </a>
 </p>
 
